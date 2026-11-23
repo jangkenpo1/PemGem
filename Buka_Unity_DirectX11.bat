@@ -1,0 +1,3 @@
+ra@echo off
+echo Membuka Unity PemGem dengan mode DirectX 11 (Anti-Flicker & Anti-Crash)...
+start "" "D:\unity\6000.6.3f1\Editor\Unity.exe" -projectPath "D:\Unity\PemGem" -force-d3d11

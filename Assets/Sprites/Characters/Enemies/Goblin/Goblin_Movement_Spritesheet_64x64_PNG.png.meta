@@ -1,0 +1,719 @@
+fileFormatVersion: 2
+guid: 2e52583b31dfc0d46954a7017e47fe64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4116296526210211660
+    second: Goblin_Movement_Spritesheet_64x64_PNG_0
+  - first:
+      213: 5268746748545786504
+    second: Goblin_Movement_Spritesheet_64x64_PNG_1
+  - first:
+      213: 3448377581256119990
+    second: Goblin_Movement_Spritesheet_64x64_PNG_2
+  - first:
+      213: 758917647705191222
+    second: Goblin_Movement_Spritesheet_64x64_PNG_3
+  - first:
+      213: 7780282948876192486
+    second: Goblin_Movement_Spritesheet_64x64_PNG_4
+  - first:
+      213: 6868572032385295629
+    second: Goblin_Movement_Spritesheet_64x64_PNG_5
+  - first:
+      213: 5774858856320825739
+    second: Goblin_Movement_Spritesheet_64x64_PNG_6
+  - first:
+      213: 4030691732668515495
+    second: Goblin_Movement_Spritesheet_64x64_PNG_7
+  - first:
+      213: -980029449456234604
+    second: Goblin_Movement_Spritesheet_64x64_PNG_8
+  - first:
+      213: 7728111670931056538
+    second: Goblin_Movement_Spritesheet_64x64_PNG_9
+  - first:
+      213: 4503206280982308575
+    second: Goblin_Movement_Spritesheet_64x64_PNG_10
+  - first:
+      213: -9008687414885724334
+    second: Goblin_Movement_Spritesheet_64x64_PNG_11
+  - first:
+      213: -291875523644500599
+    second: Goblin_Movement_Spritesheet_64x64_PNG_12
+  - first:
+      213: -2841340983943608269
+    second: Goblin_Movement_Spritesheet_64x64_PNG_13
+  - first:
+      213: 8073152318701731124
+    second: Goblin_Movement_Spritesheet_64x64_PNG_14
+  - first:
+      213: -2851027261081068026
+    second: Goblin_Movement_Spritesheet_64x64_PNG_15
+  - first:
+      213: 7617488883125157113
+    second: Goblin_Movement_Spritesheet_64x64_PNG_16
+  - first:
+      213: 6473292452169090437
+    second: Goblin_Movement_Spritesheet_64x64_PNG_17
+  - first:
+      213: 7174821268790037054
+    second: Goblin_Movement_Spritesheet_64x64_PNG_18
+  - first:
+      213: 8837956090825329751
+    second: Goblin_Movement_Spritesheet_64x64_PNG_19
+  - first:
+      213: -8224484130596628734
+    second: Goblin_Movement_Spritesheet_64x64_PNG_20
+  - first:
+      213: 2300949423684887125
+    second: Goblin_Movement_Spritesheet_64x64_PNG_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f1feaa1e5002930800000000000000
+      internalID: 4116296526210211660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882e096b0495e1940800000000000000
+      internalID: 5268746748545786504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6113ec3291bdf20800000000000000
+      internalID: 3448377581256119990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6333e356497388a00800000000000000
+      internalID: 758917647705191222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea4bcbce1e19fb60800000000000000
+      internalID: 7780282948876192486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0522884fd1125f50800000000000000
+      internalID: 6868572032385295629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b897507888b642050800000000000000
+      internalID: 5774858856320825739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a48fcc76c4efe730800000000000000
+      internalID: 4030691732668515495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f4dbb786c3662f0800000000000000
+      internalID: -980029449456234604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9765629e94cf3b60800000000000000
+      internalID: 7728111670931056538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd62248e04a9e7e30800000000000000
+      internalID: 4503206280982308575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f4437b686baf280800000000000000
+      internalID: -9008687414885724334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985d986f1cc03fbf0800000000000000
+      internalID: -291875523644500599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338484edd678198d0800000000000000
+      internalID: -2841340983943608269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d76dda249990070800000000000000
+      internalID: 8073152318701731124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ede4abfcd1f68d0800000000000000
+      internalID: -2851027261081068026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc792fa7c1c6b960800000000000000
+      internalID: 7617488883125157113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58581c23031c5d950800000000000000
+      internalID: 6473292452169090437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ac52d1ee5129360800000000000000
+      internalID: 7174821268790037054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cc4263d3ab6aa70800000000000000
+      internalID: 8837956090825329751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20753f62243ccdd80800000000000000
+      internalID: -8224484130596628734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Movement_Spritesheet_64x64_PNG_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552a0e45f4d9eef10800000000000000
+      internalID: 2300949423684887125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6922fb68357fa4a4f83bd626b413e55e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Goblin_Movement_Spritesheet_64x64_PNG_0: 4116296526210211660
+      Goblin_Movement_Spritesheet_64x64_PNG_1: 5268746748545786504
+      Goblin_Movement_Spritesheet_64x64_PNG_10: 4503206280982308575
+      Goblin_Movement_Spritesheet_64x64_PNG_11: -9008687414885724334
+      Goblin_Movement_Spritesheet_64x64_PNG_12: -291875523644500599
+      Goblin_Movement_Spritesheet_64x64_PNG_13: -2841340983943608269
+      Goblin_Movement_Spritesheet_64x64_PNG_14: 8073152318701731124
+      Goblin_Movement_Spritesheet_64x64_PNG_15: -2851027261081068026
+      Goblin_Movement_Spritesheet_64x64_PNG_16: 7617488883125157113
+      Goblin_Movement_Spritesheet_64x64_PNG_17: 6473292452169090437
+      Goblin_Movement_Spritesheet_64x64_PNG_18: 7174821268790037054
+      Goblin_Movement_Spritesheet_64x64_PNG_19: 8837956090825329751
+      Goblin_Movement_Spritesheet_64x64_PNG_2: 3448377581256119990
+      Goblin_Movement_Spritesheet_64x64_PNG_20: -8224484130596628734
+      Goblin_Movement_Spritesheet_64x64_PNG_21: 2300949423684887125
+      Goblin_Movement_Spritesheet_64x64_PNG_3: 758917647705191222
+      Goblin_Movement_Spritesheet_64x64_PNG_4: 7780282948876192486
+      Goblin_Movement_Spritesheet_64x64_PNG_5: 6868572032385295629
+      Goblin_Movement_Spritesheet_64x64_PNG_6: 5774858856320825739
+      Goblin_Movement_Spritesheet_64x64_PNG_7: 4030691732668515495
+      Goblin_Movement_Spritesheet_64x64_PNG_8: -980029449456234604
+      Goblin_Movement_Spritesheet_64x64_PNG_9: 7728111670931056538
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
